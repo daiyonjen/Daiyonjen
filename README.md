@@ -1,10 +1,10 @@
 ## Hi, I'm Daiyon👋🏽
 Hi guys, my name Daiyon Jenkins and I am a biochemistry major attending Temple University. 
 
-##Goals😼
+## Goals😼
 My long-term career goal is to become an Orthopedic surgeon with additonal practice in Plastic Surgery. My academic interest includes Oncology, Genetics, Marine Biology, and Orthopedics. 
 
-##Fun Fact!😄
+## Fun Fact!😄
 I have a twin sister.
 
 <!--
