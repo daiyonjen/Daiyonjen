@@ -1,5 +1,11 @@
 ## Hi, I'm Daiyon👋🏽
-Hi guys, my name Daiyon Jenkins and I am a biochemistry major attending Temple University. My long-term career goal is to become an Orthopedic surgeon with additonal practice in Plastic Surgery. A fun fact about me is that I have a twin sister.
+Hi guys, my name Daiyon Jenkins and I am a biochemistry major attending Temple University. 
+
+##Goals😼
+My long-term career goal is to become an Orthopedic surgeon with additonal practice in Plastic Surgery. My academic interest includes Oncology, Genetics, Marine Biology, and Orthopedics. 
+
+##Fun Fact!😄
+I have a twin sister.
 
 <!--
 **daiyonjen/Daiyonjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
